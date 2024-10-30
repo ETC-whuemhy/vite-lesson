@@ -1,0 +1,17 @@
+.main{
+  height: 80vh;
+}
+
+nav{
+  background-color: green;
+  color: orange;
+  text-align: center;
+  padding: 50px;
+}
+
+footer{
+  text-align: center;
+  background-color: yellowgreen;
+  color: black;
+  padding: 50px;
+}
